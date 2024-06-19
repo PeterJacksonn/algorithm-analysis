@@ -1,0 +1,6 @@
+Bubble sort: 1524142.1
+Quick sort: 3089.5
+Bubble sort: 1533705.2
+Quick sort: 2828.1
+Bubble sort: 1515022.9
+Quick sort: 2931.4
