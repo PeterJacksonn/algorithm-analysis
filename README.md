@@ -1,6 +1,6 @@
 # Analysis of Algorithms
 
-#### Conducting empirical experiments for analysing the complexity of two sorting algorithms.
+#### Conducting empirical experiments for analysing the complexity of two sorting algorithms (Bubble sort and Quick sort).
 
 #### Setup:
 
